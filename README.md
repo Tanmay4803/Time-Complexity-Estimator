@@ -115,12 +115,6 @@ def fibonacci(n):
 
 ---
 
-## 📄 License
-
-MIT License © 2025 Tanmay Saxena  
-Feel free to fork, modify, and contribute.
-
----
 
 ## 🙋‍♂️ Author
 
@@ -129,6 +123,3 @@ Feel free to fork, modify, and contribute.
 
 ---
 
-## ⭐️ Star the Repo
-
-If you find this useful, give it a ⭐️ on GitHub to support more projects like this.
