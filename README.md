@@ -96,7 +96,7 @@ def fibonacci(n):
 
 ## 📷 Screenshot
 
-![Screenshot](C:\Users\tanma\Desktop\Task\Booking Agent\Time-Complexity-Estimator\screenshot.png)
+![Screenshot](screenshot.png)
 
 ---
 
